@@ -47,6 +47,7 @@ public class Framesassignment {
 		System.out.println(driver.findElement(By.xpath("//body")).getText());
 //		System.out.println(driver.findElement(By.linkText("LEFT")).getText());
 		
+		
 
 	}
 
